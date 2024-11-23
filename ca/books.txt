@@ -1,0 +1,5 @@
+Harry Potter,J.K Rowling,100,available
+The Lord of the Rings,J.R.R. Tolkien,101,available
+The Hobbit,J.R.R. Tolkien,102,borrowed
+The Catch-22,Joseph Heller,103,borrowed
+harry,dinghy,108,available
